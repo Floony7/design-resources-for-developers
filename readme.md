@@ -46,7 +46,6 @@ Websites and resources with modern UI components in different formats such as PS
 | [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups.    |
 | [Speckyboy Article](https://speckyboy.com/open-source-front-end-ui-kits/)                                | The 10 most popular open source frontend web UI kits               |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
-| [Avataaars](https://avataaars.com/)                                                             | Free sketch library of avatars illustrations by Pablo Stanley                                |
 
 ## Fonts
 
@@ -390,7 +389,7 @@ All kinds of online tools for design, from photo editors to wireframing, color g
 | [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid. |
 | [Colorsinspo](https://colorsinspo.com/) | All in one resource for finding everything about colors. |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution |
-| [GetAvataaars](https://getavataaars.com/) | avatars web generator tool by Fang-Pen Lin |
+| [GetAvataaars](https://getavataaars.com/) | Colorful fun avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
 
 ## Downloadable Design Software
 
